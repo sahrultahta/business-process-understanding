@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# kode sumber hanya disimpan lokal, tidak dipublikasikan
+src/
