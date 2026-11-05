@@ -1,0 +1,57 @@
+Business Process Understanding
+Copyright (c) 2026 Sahrul Tahta. All rights reserved.
+
+This repository contains two kinds of material, licensed differently.
+
+-------------------------------------------------------------------------------
+1. Application and demo: Proprietary, All Rights Reserved
+-------------------------------------------------------------------------------
+
+Covers the web application, its interface, workflows and design, and the demo
+files in docs/ (index.html, demo-data.js).
+
+You MAY:
+  - view this repository and use the hosted demo for evaluation;
+  - share links to this repository and to the hosted demo.
+
+You MAY NOT, without prior written permission from the copyright holder:
+  - copy, download for reuse, modify, adapt, translate or create derivative
+    works of the application or demo;
+  - reverse engineer, decompile or extract the source code;
+  - use the application or demo, in whole or in part, for any commercial or
+    internal production purpose;
+  - redistribute, sublicense, sell or host the application or demo.
+
+No license or right is granted by implication or otherwise, except as stated
+above.
+
+-------------------------------------------------------------------------------
+2. Presentation material: CC BY-NC-ND 4.0
+-------------------------------------------------------------------------------
+
+Covers the video, carousel document and screenshots in docs/ and the text of
+README.md.
+
+Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License (CC BY-NC-ND 4.0):
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You may share this material in any medium or format, provided that you:
+  - give appropriate credit to Sahrul Tahta and link to this repository;
+  - do not use it for commercial purposes;
+  - do not distribute modified versions.
+
+-------------------------------------------------------------------------------
+Disclaimer
+-------------------------------------------------------------------------------
+
+The demo uses fictitious data only. All material is provided "as is", without
+warranty of any kind. In no event shall the copyright holder be liable for any
+claim, damages or other liability arising from its use.
+
+-------------------------------------------------------------------------------
+Collaboration and implementation
+-------------------------------------------------------------------------------
+
+For permission, collaboration or implementation in your organization, contact:
+https://www.linkedin.com/in/sahrul-tahta-gunawan-08110a235/

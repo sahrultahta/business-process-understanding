@@ -131,7 +131,10 @@ Proyeksi berikutnya:
 
 © 2026 Sahrul Tahta. Seluruh hak dilindungi.
 
-Materi dan demo di repository ini ditampilkan sebagai portofolio dan tidak dilisensikan untuk digunakan, disalin, atau dimodifikasi. Terbuka untuk diskusi, kolaborasi, maupun implementasi di organisasi Anda. Silakan hubungi melalui [LinkedIn](https://www.linkedin.com/in/sahrul-tahta-gunawan-08110a235/).
+- **Aplikasi & demo:** Proprietary, seluruh hak dilindungi. Boleh dilihat dan dicoba, tidak boleh disalin, diubah, atau dipakai secara komersial.
+- **Video, carousel, tangkapan layar & teks README:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Boleh dibagikan ulang dengan mencantumkan nama Sahrul Tahta, tanpa diubah dan bukan untuk komersial.
+
+Rincian lengkap ada di [LICENSE](LICENSE). Terbuka untuk diskusi, kolaborasi, maupun implementasi di organisasi Anda. Silakan hubungi melalui [LinkedIn](https://www.linkedin.com/in/sahrul-tahta-gunawan-08110a235/).
 
 ---
 
